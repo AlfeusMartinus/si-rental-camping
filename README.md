@@ -1,5 +1,7 @@
 # 🏕️ Si Rental Camping: Java Application
 
+![Si Rental Camping Logo](src/img/demo.png)
+
 Welcome to **Si Rental Camping**! 🎉 This repository houses a comprehensive Java application designed for managing camping equipment rentals. Built with **Ant** and developed in **NetBeans**, our app streamlines the process of renting and managing camping gear, ensuring both efficiency and user satisfaction.
 
 ## Features ✨
